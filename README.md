@@ -1,2 +1,105 @@
 # COVIDFIGHTER
-TO JOIN THIS FIGHT PLEASE READ THIS COMPLETELY. To Join this fight as a contributor or volunteer please fill form link given at the end of introduction. As world is now facing huge challenge to tackle covid-19, Problem definition is to track, predict possible victim of coronavirus. We the developer are here to provide tech solutions to tackle covid-19. we request you to join fight with us. Who can join this fight: we currently in position where as many as a volunteer are needed, So we are short in Project managers, Developers, Q/A analyst, UX/UI designer, content writer, content developer, logic developer can define logic in any language, mathematician, campaign marketing specialist, digital marketing specialist, AND most important documentation manager and creator, reviewers, google form creator. if you are not any of these you still can join this project and help us create better solution. :) we all are in the same boat so if you desire to contribute please be aware that we are doing it for community and this project will be completely non-profit. As we are starting from scratch all proper documentation and problem definition and the task will be available on the go. https://forms.gle/ZD69PKaWFd57TLgu6 This is a link to join this fight against covid-19. THANK YOU!
+# Introduction:
+**As the world is now facing huge challenges to tackle covid-19, Problem definition is to track, predict possible victims of coronavirus. We the developer are here to provide tech solutions to tackle covid-19. we request you to join the fight with us. To join this project first read a document carefully and find answers to general questions. this project needs both technical and non-technical help please go through the questions mention below.**
+### HAVE YOU READ DOCUMENT? 
+> * If YES then [ENROLL HERE](https://forms.gle/ZD69PKaWFd57TLgu6).
+> * If NO Please read the document to know what we are doing. 
+
+## What we are doing?
+>As of now every one of us is aware of the catastrophe that has done by COVID-19. 
+>The only possible solution for the instant is “MAXIMUM TEST” but it comes with a blunder of unnecessary testing. 
+>So we are here to develop applications/platforms for frontlines to make it easier by predicting and potentially detecting suspects so that they can work efficiently. 
+>This is one aspect of application we are also developing proper content to make people aware of the situation.    
+
+## Is this official application?
+>NO, it is not but if we succeed in creating the quality app in time we may apply for official authority to adopt this application.
+
+## What are the benefits of working on this project?
+> As we are developing it as an open-source project and being non-profit with the sole purpose intention to help the community. we won’t be able to provide any perks (such as payments) but to make sure everyone should get credited for their contribution to the community we *might provide certification and if you come up with great work we can provide a letter of appreciation. *if or on successful implementation, official recognition, sponsored. Your contribution could make it successful please read all documentation properly.
+
+## How we are doing?
+ ### 1. Data Analytics
+>* History assessment will generate data on one’s history of travel through the app is useful to make a decision based on data.
+>* Self-assessment tests can provide us daily health statistics of the individual depending on a question set provided in-app. 
+>* Provide essential data by combining and analyzing history assessment as well as self-assessment we can predict potential victims.
+
+ ### 2. GPS technology 
+>*	This technology is used to manipulate location and coordination based on the user's position and can predict the transmission to other victims.  
+
+### 3. Machine learning 
+
+>* This tech can be powerful to detect symptoms and alarming frontlines.
+ 
+### 4. Awareness program 
+
+>*	This program is content to reach and informatics to end misconceptions among users. 
+
+## How you can help us?
+### SIMPLY EVERY ONE OF YOU. 
+>While reading any skillset please go through it completely because the title given can’t give the whole idea of work.
+First of all, choose a skill set like technical or non-technical and then read categories that fit you best.
+
+### 1. Technical
+>In this skillset we need 
+>#### **Programmers and Coders**
+>>*	This is entities that have programming and coding skills for both android and iOS apps.
+>>*	Part of the job is to design (front-end) and develop (back-end) application.  
+>>*	The set of technologies for the development will be listed soon but make sure while filling enrollment form you mention your skill and technologies you are aware of.
+>>*	The project would be conducted on GitHub and slack.
+>#### **UI/UX designer**
+>>*	This is entities that know user interface and user experience design.
+>>*	Can work on application software like adobe XD, Photoshop and illustrator.
+>#### 	**Technical document writer and presenter**
+>>*	Part of the job is to create documentation/presentation on understanding and working of the application.
+>#### 	**Data analyst**
+>>*	Part of the job is to analyze data generated by the application and derive meaningful conclusions 
+>>*	To guide in fetching useful user data from the application
+>####	**Math and statistics**
+>>*	Part of the job is to use your skill to find complex links and their effects on data generated by the application.
+>>*	Most important is to provide formulas and methods to make the task efficient and better.  
+>####	**Logic developer**
+>>*	Part of the job is to provide efficient logic to problem definition provided by developers. 
+>>*	Write sudo code, algorithms, and flowchart.
+>####	**Quality analyst / Tester**
+>>*	Part of the job is to test application for its stability and vulnerability and provide feedback.  
+>####	**Project manager** 
+>>*	Part of the job is to maintain workflow so that every work could be done efficiently.
+>>*	Assign tasks and instructions. 
+>#### **Schema Designer**
+>>*	Part of the job is by understanding the working of application one must design an efficient and secure database schema/structure to help make the best of data. 
+>#### **Digital marketing**
+>>*	Part of work is to create and promote the campaign on social media platforms.  
+>>*	Manage projects official pages and post helpful content to gather resources and share work progress.
+
+### 2. Non-technical
+>In this skillset we need 
+>#### **Content developer** 
+>#### **Promoters**
+>>*	Most important of all to make any project successful you need the right people. Part of the job is to share this project on social media platforms or to close ones and help us gather volunteer and helping hands. 
+>>*	You can work as a social media marketing individual.
+>>*	Social media influencer is most welcome to help us. 
+>#### **Reviewers**
+>>*	Part of the job is to review application, documentation, and content to help us find mistakes and suggest our resolutions to make the best of everything.      
+>#### **Awareness squad**
+>>*	As you know there is loads of misconception and ideas around society regarding covid-19 pandemic you can help us and make right awareness content so that we can spread it around the community.
+>>*	You can create imaginary scenarios and solutions in the case of infection or how one should take care during certain scenarios. 
+>>*	You can provide us content in your language to make awareness more divers. (content can be anything image, text, video). 
+>#### **Language translator** 
+>>*	As application develops we need language proficient helpers to make app multilingual.  
+>#### **Idea contributors**
+>>*	You can contribute the best of the best ideas to make this app class.
+>>*	While developing an application we might put questions to which your ideas can help us.
+>#### **Document writing and Presentation**
+>>*	If you think you can write anything in a manner that is more understanding and perfectly arranged for example if you think you can make or improvise this documentation and can explain it very effectively you are most welcome.    
+## What is the potential outcome?
+>* Potential outcome would be a cluster of data that can be very useful for helping frontline and user to beat this pandemic.
+## How much time does it take?
+>* Time is subjected to arability of resources/ helping hands. 
+## Is there dedicated time to work?
+>* No anyone can work anytime. Except for the core team. 
+## Are there targets?
+>* No. Except for the core team.
+## Our roadmap
+>* We are trying a parallel approach for development.
+>* Currently we are in the development of application design and documentation. 
+>* We will be having this application in no. version’s so that we could be up and running without any dependency.  
