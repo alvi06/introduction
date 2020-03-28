@@ -34,11 +34,11 @@
 
 >*	This program is content to reach and informatics to end misconceptions among users. 
 
-## How you can help us?
+## Who can help us?
 ### SIMPLY EVERY ONE OF YOU. 
 >While reading any skillset please go through it completely because the title given can’t give the whole idea of work.
 First of all, choose a skill set like technical or non-technical and then read categories that fit you best.
-
+## How can you help us?
 ### 1. Technical
 >In this skillset we need 
 >#### **Programmers and Coders**
