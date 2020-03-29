@@ -74,7 +74,7 @@ First of all, choose a skill set like technical or non-technical and then read c
 ### 2. Non-technical
 >In this skillset we need 
 >#### **Content developer**
->>*     Content developer can act as textual content writer, graphics developer and media developer. this is useful for awareness programs mentioned in how we are doing? Section.
+>> * Content developer can act as a textual content writer, graphics developer, and media developer. this is useful for awareness programs mentioned in how we are doing? Section.
 >#### **Promoters**
 >>*	Most important of all to make any project successful you need the right people. Part of the job is to share this project on social media platforms or to close ones and help us gather volunteer and helping hands. 
 >>*	You can work as a social media marketing individual.
