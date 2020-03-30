@@ -100,6 +100,8 @@ First of all, choose a skill set like technical or non-technical and then read c
 >* No anyone can work anytime. Except for the core team. 
 ## Are there targets?
 >* No. Except for the core team.
+## What is Slack?
+>* For the functioning of the entire app we are using an application called "Slack". Slack is a chat room that is used for communicating and works best when you are working in teams from various places. It is designed with the aim to replacing Email communication which is usually the preferred primary method fpr sharing data or information. Also Slack integrates with multiple apps, so an entire workflow can be managed on one platform. To know more about slack, [click here](https://slack.com/intl/en-in/resources/using-slack/slack-tutorials)
 ## Our roadmap
 >* We are trying a parallel approach for development.
 >* Currently we are in the development of application design and documentation. 
