@@ -91,7 +91,9 @@ First of all, choose a skill set like technical or non-technical and then read c
 >>*	You can contribute the best of the best ideas to make this app class.
 >>*	While developing an application we might put questions to which your ideas can help us.
 >#### **Document writing and Presentation**
->>*	If you think you can write anything in a manner that is more understanding and perfectly arranged for example if you think you can make or improvise this documentation and can explain it very effectively you are most welcome.    
+>>*	If you think you can write anything in a manner that is more understanding and perfectly arranged for example if you think you can make or improvise this documentation and can explain it very effectively you are most welcome.
+## What is Git-Hub?
+>* For those of you who are willing to apply for Non-Tech positions such as Documentation, we are working on that entire part on a platform named "GitHub". It simplifies the process of working with people and collaborating with projects. To know more about this platform please [click here](https://guides.github.com/features/wikis/)
 ## What is the potential outcome?
 >* Potential outcome would be a cluster of data that can be very useful for helping frontline and user to beat this pandemic.
 ## How much time does it take?
